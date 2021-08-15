@@ -1,0 +1,6 @@
+,artist,date,genre,pixelsx,pixelsy,size_bytes,source,style,title,artist_group,in_train,new_filename,stt
+0,Konstantin Somov,1934,interior,4374,5262,3977861,wikiart,Art Nouveau (Modern),Open Door on a Garden,train_and_test,True,41541.jpg,1
+1,Leonardo da Vinci,1504,portrait,2835,4289,3506068,wikiart,High Renaissance,Mona Lisa,train_and_test,False,54563.jpg,2
+2,Vincent van Gogh,1889,sketch and study,2726,2055,1699780,wikiart,Post-Impressionism,The Starry Night,train_and_test,True,75795.jpg,3
+3,Vincent van Gogh,1888,cityscape,1761,2235,657271,wikiart,Post-Impressionism,"Cafe Terrace, Place du Forum, Arles",train_and_test,False,51578.jpg,4
+4,Vincent van Gogh,1888,cityscape,1950,1537,647239,wikiart,Post-Impressionism,The Yellow House,train_and_test,True,101788.jpg,5
